@@ -1,0 +1,12 @@
+C:\GitHub\UC15-Testes_de_software\Projeto_de_testes\Projeto_de_testes\bin\Debug\net6.0\Projeto_de_testes.deps.json
+C:\GitHub\UC15-Testes_de_software\Projeto_de_testes\Projeto_de_testes\bin\Debug\net6.0\Projeto_de_testes.dll
+C:\GitHub\UC15-Testes_de_software\Projeto_de_testes\Projeto_de_testes\bin\Debug\net6.0\Projeto_de_testes.pdb
+C:\GitHub\UC15-Testes_de_software\Projeto_de_testes\Projeto_de_testes\obj\Debug\net6.0\Projeto_de_testes.csproj.AssemblyReference.cache
+C:\GitHub\UC15-Testes_de_software\Projeto_de_testes\Projeto_de_testes\obj\Debug\net6.0\Projeto_de_testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\UC15-Testes_de_software\Projeto_de_testes\Projeto_de_testes\obj\Debug\net6.0\Projeto_de_testes.AssemblyInfoInputs.cache
+C:\GitHub\UC15-Testes_de_software\Projeto_de_testes\Projeto_de_testes\obj\Debug\net6.0\Projeto_de_testes.AssemblyInfo.cs
+C:\GitHub\UC15-Testes_de_software\Projeto_de_testes\Projeto_de_testes\obj\Debug\net6.0\Projeto_de_testes.csproj.CoreCompileInputs.cache
+C:\GitHub\UC15-Testes_de_software\Projeto_de_testes\Projeto_de_testes\obj\Debug\net6.0\Projeto_de_testes.dll
+C:\GitHub\UC15-Testes_de_software\Projeto_de_testes\Projeto_de_testes\obj\Debug\net6.0\refint\Projeto_de_testes.dll
+C:\GitHub\UC15-Testes_de_software\Projeto_de_testes\Projeto_de_testes\obj\Debug\net6.0\Projeto_de_testes.pdb
+C:\GitHub\UC15-Testes_de_software\Projeto_de_testes\Projeto_de_testes\obj\Debug\net6.0\ref\Projeto_de_testes.dll
